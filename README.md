@@ -14,7 +14,7 @@ The graph is represented by the adjacency matrix A, in which 1 indicates edge an
 
 Adjacency matrix A is 2D-decomposed using q by q row-wise grid of ranks.
 
-                                              Discription
+                                              Description
 
 Arguments of the connected_components are as follows:
 
